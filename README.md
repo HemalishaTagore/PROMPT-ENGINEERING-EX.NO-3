@@ -44,11 +44,6 @@ Procedure:
 
 
 # OUTPUT: 
-
+[expt 3 prmpt.pdf](https://github.com/user-attachments/files/24359078/expt.3.prmpt.pdf)
 
 # RESULT: The various types of Prompts are executed successfully with generated the report.
-
-
-
-
-
